@@ -10,7 +10,7 @@ Permettant :
 - mise a jour ...
 
 # Stack
-s
+
 #### - backend
 - SPRING BOOT
 #### - Frontend
