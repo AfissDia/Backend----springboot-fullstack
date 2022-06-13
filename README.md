@@ -10,11 +10,12 @@ Permettant :
 - mise a jour ...
 
 # Stack
-  #### - backend
+s
+#### - backend
 - SPRING BOOT
-  #### - Frontend
+#### - Frontend
 - HTML , CSS , BOOTSTRAP, JAVASCRIPT 
--
+
 # Lien Demo 
 Ce lien vous redrise dirrectement sur la page web deployer sur heroku
 
